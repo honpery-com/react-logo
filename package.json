@@ -1,0 +1,25 @@
+{
+	"name": "honpery-com-react-logo",
+	"version": "0.0.1",
+	"description": "",
+	"main": "./src/index.tsx",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/honpery-com/react-logo.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/honpery-com/react-logo/issues"
+	},
+	"homepage": "https://github.com/honpery-com/react-logo#readme",
+	"devDependencies": {
+		"tslint": "^5.4.3",
+		"typescript": "^2.3.4"
+	},
+	"peerDependencies": {
+		"react": "^15.6.1"
+	}
+}
